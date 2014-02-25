@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-2.5390623e-6)"
+     id="layer1">
+    <g
+       id="g3822">
+      <g
+         id="g3813"
+         style="fill:#ffffff">
+        <path
+           d="m 545.88642,948.04955 -63.98048,-110.81742 127.96094,-10e-6 z"
+           transform="matrix(0,1.7866117,-1.7866117,0,1966.8551,-611.04847)"
+           id="path4370"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           d="m 545.88642,948.04955 -63.98048,-110.81742 127.96094,-10e-6 z"
+           transform="matrix(0,1.7866117,-1.7866117,0,1966.8551,-382.43197)"
+           id="path4372"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           d="m 545.88642,948.04955 -63.98048,-110.81742 127.96094,-10e-6 z"
+           transform="matrix(0,1.7866117,1.7866117,0,-1222.7501,-496.74022)"
+           id="path4374"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           d="m 545.88642,948.04955 -63.98048,-110.81742 127.96094,-10e-6 z"
+           transform="matrix(0,1.7866117,1.7866117,0,-1222.7501,-268.12372)"
+           id="path4376"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           d="m 273.03657,326.15637 0.006,38.07589 197.98769,-114.30825 -32.97144,-19.04356 -165.02274,95.27592 z"
+           id="path4378"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           d="m 504.04474,497.60035 -33.00656,-19.0609 0,228.6165 33.00656,-19.0609 0,-190.4947 z"
+           id="path4380"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           d="m 273.05629,592.8477 -33.00646,19.0609 0,190.4947 33.00646,19.0609 0,-228.6165 z"
+           id="path4382"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         id="g3805">
+        <g
+           id="g3799"
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0">
+          <path
+             d="M 273.05872,364.23855 471.04642,249.9303"
+             id="path4386"
+             style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          <path
+             d="m 273.05872,592.85505 197.9877,-114.30825 10e-6,228.6165 z"
+             id="path4388"
+             style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          <path
+             d="M 471.04637,478.5468 273.05867,364.23855"
+             id="path4390"
+             style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          <path
+             d="m 273.05867,592.85505 -1e-5,228.6165"
+             id="path4392"
+             style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+        </g>
+        <path
+           d="m 504.04478,497.60034 -33.00655,-19.06086 0,-228.6165 -32.97784,-19.03232 -165.03258,95.27593 0.0283,38.06464 0,228.6165 -33.00646,19.06086 0,190.4947 33.00646,19.06094 197.98189,-114.30825 33.00655,-19.06094 0,-190.4947 z"
+           id="path4339"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>

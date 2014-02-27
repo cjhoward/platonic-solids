@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains 3D models and papercraft templates of the platonic solids.
+This repository contains 3D models and papercraft templates of the Platonic solids.
 
 ## License
 

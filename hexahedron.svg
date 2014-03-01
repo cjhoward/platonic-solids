@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-2.5390623e-6)"
+     transform="translate(3.6621094e-4,-17.500211)"
      id="layer1">
     <g
        transform="translate(3.6621094e-4,-4.1742188e-4)"
@@ -101,15 +101,10 @@
            d="m 291.20837,202.86098 0,161.65625 -35,-20.21875 0,-121.21875 35,-20.21875 z"
            id="path3955"
            style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      </g>
-      <g
-         id="g3831"
-         style="fill:#000080">
         <path
-           d="m 291.21875,202.875 -35,20.21875 0,121.21875 35,20.21875 -35,20.21875 0,121.21875 35,20.21875 -161.65625,0 0,161.65625 161.65625,0 -35,20.21875 0,121.21875 35,20.21875 161.65625,0 35,-20.21875 0,-121.21875 -35,-20.21875 161.65625,0 0,-161.65625 -161.65625,0 35,-20.21875 0,-121.21875 -35,-20.21875 35,-20.21875 0,-121.21875 -35,-20.21875 -161.65625,0 z"
-           transform="translate(0,2.5390623e-6)"
-           id="rect4511"
-           style="fill:none;stroke:#000000;stroke-opacity:1" />
+           d="m 291.20925,849.49504 161.65625,0 -20.21875,35 -121.21875,0 -20.21875,-35 z"
+           id="path3005"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
       </g>
       <g
          id="g3823">
@@ -121,7 +116,7 @@
              id="rect5118"
              style="fill:none;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0" />
           <path
-             d="m 291.20836,849.49502 0,-161.658 m 161.658,0 0,161.658"
+             d="m 452.86636,687.83702 0,161.658 -161.658,0 0,-161.658"
              id="rect5122"
              style="fill:none;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0" />
           <path
@@ -133,6 +128,15 @@
              id="rect5126"
              style="fill:none;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0" />
         </g>
+      </g>
+      <g
+         id="g3007"
+         style="fill:#0000ff">
+        <path
+           d="m 291.21875,202.875 -35,20.21875 0,121.21875 35,20.21875 -35,20.21875 0,121.21875 35,20.21875 -161.65625,0 0,161.65625 161.65625,0 -35,20.21875 0,121.21875 35,20.21875 20.21875,35 121.21875,0 20.21875,-35 35,-20.21875 0,-121.21875 -35,-20.21875 161.65625,0 0,-161.65625 -161.65625,0 35,-20.21875 0,-121.21875 -35,-20.21875 35,-20.21875 0,-121.21875 -35,-20.21875 -161.65625,0 z"
+           transform="translate(-3.6621094e-4,4.1996094e-4)"
+           id="rect3009"
+           style="fill:none;stroke:#000000;stroke-opacity:1" />
       </g>
     </g>
   </g>
